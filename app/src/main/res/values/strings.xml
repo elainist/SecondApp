@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Forward</string>
+    <string name="btnSave">Save</string>
+    <string name="editText">Edit</string>
+    <string name="addplans">Add new plans</string>
+    <string name="remove">Remove plan</string>
+    <string name="reflection">Do Reflection</string>
+
+</resources>
